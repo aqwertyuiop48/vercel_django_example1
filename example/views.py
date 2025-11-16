@@ -7622,7 +7622,7 @@ body
 {
 margin: 0px;
 padding: 0px;
-background: #E10A04 url('https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/backgroundx.png') repeat-x;
+background: #E10A04 url('https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/backgroundx.png') repeat-x;
 font-family: Arial;
 color: #FFAEAE;
 font-size: 12px;
@@ -7643,7 +7643,7 @@ font-weight: bold;
 
 #Wrapper
 {
-background: url('https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/background.png') no-repeat top center;
+background: url('https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/background.png') no-repeat top center;
 min-height: 720px;
 }
 
@@ -7827,7 +7827,7 @@ text-transform: uppercase;
 border: 0px;
 min-width: 162px;
 min-height: 34px;
-background: url('https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/submitBackground.png') repeat-x;
+background: url('https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/submitBackground.png') repeat-x;
 margin: 8px 0px;
 cursor: pointer;
 }
@@ -7841,7 +7841,7 @@ text-transform: uppercase;
 border: 0px;
 min-width: 28px;
 min-height: 28px;
-background: url('https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/submitSmallBackground.png') repeat-x;
+background: url('https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/submitSmallBackground.png') repeat-x;
 margin: 8px 0px;
 padding: 2px 16px;
 cursor: pointer;
@@ -7867,7 +7867,7 @@ height: 100%;
 position: absolute;
 top: 0px;
 right: 0px;
-background: url('https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/shade.png') repeat;
+background: url('https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/shade.png') repeat;
 }
 
 #youWon div
@@ -7906,7 +7906,7 @@ color: #ED823F;
 border: 1px solid #ED823F;
 }
     </style>
-<link rel="shortcut icon" href="https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/icon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/icon.ico" type="image/x-icon" />
 </head>
 <body>
     <div id="Wrapper">
@@ -7928,10 +7928,10 @@ border: 1px solid #ED823F;
                     <br/>
                     <br/>
                     <div id="calculating" style="display: none;">
-                        <img src="https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/iconTime.png" alt="Calculating Clock" /><span class="finishedLabel">Solving puzzles...</span>
+                        <img src="https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/iconTime.png" alt="Calculating Clock" /><span class="finishedLabel">Solving puzzles...</span>
                     </div>
                     <div role="tab" aria-selected="true" aria-controls="perfResults" tabindex="200" id="finishedCalculating" style="display: none;">
-                        <img src="https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/sudoku/images/iconTime.png" alt="Calculating Clock" /><span class="finishedLabel">Finished In:</span>
+                        <img src="https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/sudoku/images/iconTime.png" alt="Calculating Clock" /><span class="finishedLabel">Finished In:</span>
                         <br/>
                         <span id="timeFinished"></span>
                     </div>
@@ -9622,11 +9622,11 @@ return this;
 
     <script>
     var images = [
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/neeruti.jpg', title: 'Neeruti manor' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/harju_madise.jpg', title: 'Harju-Madis Church' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/rahumae.jpg', title: 'Rahumäe train station' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kakumae.jpg', title: 'Kakumäe Harbor' },
-        { src: 'https://raw.githubusercontent.com/sreegithub19/JavaScript-Applications/main/public/puzzle/img/kohila.jpg', title: 'Kohila mill' }
+        { src: 'https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/puzzle/img/neeruti.jpg', title: 'Neeruti manor' },
+        { src: 'https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/puzzle/img/harju_madise.jpg', title: 'Harju-Madis Church' },
+        { src: 'https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/puzzle/img/rahumae.jpg', title: 'Rahumäe train station' },
+        { src: 'https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/puzzle/img/kakumae.jpg', title: 'Kakumäe Harbor' },
+        { src: 'https://raw.githubusercontent.com/aqwertyuiop48/JavaScript-Applications/main/public/puzzle/img/kohila.jpg', title: 'Kohila mill' }
     ];
     
     $(function () {
